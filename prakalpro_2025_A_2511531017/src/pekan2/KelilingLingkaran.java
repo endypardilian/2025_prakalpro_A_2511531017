@@ -9,7 +9,3 @@ public class KelilingLingkaran {
 				   System.out.println("Keliling = " + 2 * PI * radius);
 			}
 		}
-
-	 
-
-
